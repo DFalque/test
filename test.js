@@ -38,7 +38,6 @@ function solution(A) {
             return solution
         } else if(searchNumber === 0) return max += 1
     }
-    if(searchNumber === 0) {return 10} 
 }
 
 
